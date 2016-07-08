@@ -2,9 +2,9 @@
 layout: post
 title:  "<转>【干货】谈谈外接键盘在os x中的设置技巧（不仅仅是换苹果键）"
 date:   2016-07-08 14:08:12 +0800
-categories: 机械键盘　MAC　外接键盘　OSX 按键设置
+categories: MAC
 ---
->  本文由[小鸡炖蘑菇-TuringMachine123](http://www.zealer.com/personal/116610)发表于[ZEALER](http://plus.zealer.com/post/8918#rd)
+>  本文由　[小鸡炖蘑菇-TuringMachine123](http://www.zealer.com/personal/116610)　发表于　[ZEALER](http://plus.zealer.com/post/8918#rd)
 
 ----
 
