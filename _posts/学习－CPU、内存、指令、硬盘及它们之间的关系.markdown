@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "学习-CPU、内存、硬盘、指令及它们之间的关系"
+date:   2017-02-27
+categories: Study
+---
+
 #学习－CPU、内存、指令、硬盘及它们之间的关系
 
 
